@@ -1,0 +1,20 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: pink;
+}
+
+h1{
+  color: blue;
+  background-color: yellow;
+}
+
+button{
+  background-color: red;
+  color: white;
+  border-radius: 4px;
+}
